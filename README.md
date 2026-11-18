@@ -79,6 +79,10 @@ For this bounty, your rank is the number of verified human signups that came thr
 - **One link, everywhere it fits.** Your link is https://make.fun/r/x8xs9wv2 — the code **x8xs9wv2** is the part that identifies you. Share the full link so the platform can attribute the signup to you.
 - **No shortcuts.** Do not create accounts for other people, do not pay for signups, and do not promise people money to join. The platform verifies humans, and shortcuts waste your 30 minutes and risk your account.
 
+## What to do when you miss a day
+
+You will miss a day. A deadline at work, a sick kid, a dead phone battery — life happens, and the routine has an answer for it: nothing. Do not double up the next day, do not run a 60-minute "catch-up" session, and do not restart the week from day one. Just open your notes, read the last three lines you wrote, and run the next 30-minute block as if the missed day never happened. A routine that survives a missed day is a routine you will still be running in December; a routine that demands perfection is one you will abandon by Friday.
+
 ## Common mistakes busy people make
 
 - **Waiting for a free weekend.** Bounties close on their own schedule, not yours. Thirty minutes today is worth more than a free weekend that never comes.
